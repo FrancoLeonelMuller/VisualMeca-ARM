@@ -1,0 +1,9 @@
+Z:\Mecatronica\Alumnos\Segundo\Muller\Nueva carpeta\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+Z:\Mecatronica\Alumnos\Segundo\Muller\Nueva carpeta\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+Z:\Mecatronica\Alumnos\Segundo\Muller\Nueva carpeta\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+Z:\Mecatronica\Alumnos\Segundo\Muller\Nueva carpeta\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+Z:\Mecatronica\Alumnos\Segundo\Muller\Nueva carpeta\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+Z:\Mecatronica\Alumnos\Segundo\Muller\Nueva carpeta\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+Z:\Mecatronica\Alumnos\Segundo\Muller\Nueva carpeta\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+Z:\Mecatronica\Alumnos\Segundo\Muller\Nueva carpeta\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+Z:\Mecatronica\Alumnos\Segundo\Muller\Nueva carpeta\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
