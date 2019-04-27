@@ -5,6 +5,7 @@
     Dim Instrucciones As String         'Instrucciones para los motores
     Dim NumeroMotor As Integer
     Dim IpRobot As String
+    Dim Aux As Integer
 
     Private Sub Form1_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
         Timer1.Interval = 1         'Seteo Timmer en 1ms
