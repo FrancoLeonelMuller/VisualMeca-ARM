@@ -1,0 +1,83 @@
+
+ROM used:   11864/32768 (36%)
+            11864/32768 (36%) including unused fragments
+
+            3.4 Average locations per line
+            13.5 Average locations per statement
+
+RAM used:   382/2048 (19%) at main() level
+            501/2048 (24%) worst case
+
+Stack used: 6 worst case (3 in main + 3 for interrupts)
+Stack size: 31
+
+Lines Stmts  %   Files
+----- ----- ---  -----
+  852   522  59  main.c
+  837     0   0  C:\Program Files (x86)\PICC\Devices\18F4550.h
+ 1351   359  41  C:\Program Files (x86)\PICC\Drivers\stdlib.h
+   32     0   0  C:\Program Files (x86)\PICC\Drivers\stddef.h
+  423     0   0  C:\Program Files (x86)\PICC\Drivers\string.h
+   28     0   0  C:\Program Files (x86)\PICC\Drivers\ctype.h
+----- -----
+ 3523   881 Total
+
+Page ROM  %  RAM   Vol Diff  Functions:
+---- --- --- ---   --- ----  ----------
+0    246   1   11             @MULFF
+0     54   0    2             @ITOF
+0    632   3   16             @ADDFF
+0    352   1   14             @DIVFF
+0    462   2   27  1075 11.2  itoa
+0     92   0   14             @MUL3232
+0    234   1   14             @DIVS3232
+0    592   2   19  1542 12.4  strtof
+0     42   0    1             @delay_ms1
+0     38   0    1             @delay_us1
+0     24   0    0             @GETCH_BIU_1
+0    196   1    2   375  3.8  cleanAll
+0   1058   4    7  6190  6.3  home
+0   2462  10   19  3031  8.0  mover_motor
+0     66   0    6             @WRITEBITA
+0     50   0    5             @READBITA
+0    280   1    7   717  6.2  estirar
+0     48   0    0             @goto12203
+0     36   0    2   120  3.4  inicbuff
+0    198   1    6   247  3.7  crearSecInit
+0    614   3    6   515  5.7  calcularPasosDados
+0    644   3    7  1892  7.1  procesa_comando
+0     68   0    5             @FTOSD
+0   1902   8   63  4297  8.5  armarPaquete
+0     32   0    0             @const1021
+0     38   0    2             @PSTRINGR_9600_31766_31767
+0    378   2    2  2444  6.8  serial_isr
+0      6   0    0             @const1026
+0     34   0    2             @PSTRINGC_9600_31766_31767
+0    426   2    2  1375  5.8  TIMER0_isr
+0      4   0    0             @const1030
+0      4   0    0             @const1031
+0      6   0    0             @const1032
+0    388   2    1   777  3.9  MAIN
+ Inline         0             @cinit1
+
+Program metrics:
+    Functions               14
+    Statements              881
+    Comments                813
+    Volume (V)              35971
+    Difficulty (D)          92.6
+    Effort to implement (E) 3332203
+    Time to implement (T)   51 hours, 25 minutes
+    Est Delivered Bugs (B)  7
+    Cyclomatic Complexity   122
+    Maintainability (MI)    27
+
+ Segment     Used  Free
+-----------  ----  ----
+00000-00002     4  0  
+00004-00006     0  4  
+00008-000A0   154  0  
+000A2-07FFE  11706  20900  
+
+
+

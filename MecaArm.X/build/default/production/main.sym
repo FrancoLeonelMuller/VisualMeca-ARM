@@ -1,0 +1,331 @@
+000     @SCRATCH
+001     @SCRATCH
+001     _RETURN_
+002     @SCRATCH
+003     @SCRATCH
+004     @INTERRUPT_AREA
+005     @INTERRUPT_AREA
+006     @INTERRUPT_AREA
+007     @INTERRUPT_AREA
+008     @INTERRUPT_AREA
+009     @INTERRUPT_AREA
+00A     @INTERRUPT_AREA
+00B     @INTERRUPT_AREA
+00C     @INTERRUPT_AREA
+00D     @INTERRUPT_AREA
+00E     @INTERRUPT_AREA
+00F     @INTERRUPT_AREA
+010     @INTERRUPT_AREA
+011     @INTERRUPT_AREA
+012     @INTERRUPT_AREA
+013     @INTERRUPT_AREA
+014     @INTERRUPT_AREA
+015     @INTERRUPT_AREA
+016     @INTERRUPT_AREA
+017-018 strtok.save
+019-01C _Randseed
+01D     rs232_errors
+01E     xbuff
+01F-050 cbuff
+051     rcvchar
+052     cantCaracteres
+053     cantPaquetes
+054     modoOperacion
+055     flagComando
+056     flagAsterisco
+057     flagNumeral
+058     flagDollar
+059     flagEstirar
+05A     flagEstirar2
+05B-060 flagFlanco
+061     flagTimer
+062     flagHome
+063     flagS
+064     flagF
+065     flagArmarPaquete
+066     flagPasosDados
+067     flagCrearSecuenciaInit
+068     flagPaquetePasosDados
+069-092 motor
+093     i
+094     j
+095-0AC pasos
+0AD-0B2 velocidad
+0B3-0B8 velofija
+0B9-0D0 contPasos
+0D1-0E8 pasosAnteriores
+0E9-100 pasosActuales
+101-118 pasosDados
+119-130 arrayPasos
+131-136 provi
+137     veloprovi
+138     interrupVel
+139-13A veloAjuste
+13B-152 pasosmax
+153-16A pasosmin
+16B-170 signoPasos
+171-17C pasosEstirado
+17D     crearSecInit.i
+17D-1AF armarPaquete.paqueteBase
+17D     home.primerHome
+17D     estirar.nMotor
+17D     procesa_comando.i
+17D     calcularPasosDados.i
+17D     MAIN.@SCRATCH1
+17E     home.primeraVueltaMotor1
+17E     procesa_comando.h
+17E     estirar.@SCRATCH1
+17E     crearSecInit.@SCRATCH1
+17E     calcularPasosDados.@SCRATCH1
+17F     procesa_comando.k
+17F     home.primeraVueltaMotor2
+17F     estirar.@SCRATCH2
+17F     crearSecInit.@SCRATCH2
+17F     calcularPasosDados.@SCRATCH2
+180     home.primeraVueltaMotor3
+180     procesa_comando.w
+180     estirar.@SCRATCH3
+180     crearSecInit.@SCRATCH3
+180     calcularPasosDados.@SCRATCH3
+181     home.primeraVueltaMotor4
+181     estirar.@SCRATCH4
+181     crearSecInit.@SCRATCH4
+181     calcularPasosDados.@SCRATCH4
+181     procesa_comando.@SCRATCH1
+182     home.primeraVueltaMotor5
+182     estirar.@SCRATCH5
+182     crearSecInit.@SCRATCH5
+182     calcularPasosDados.@SCRATCH5
+182     procesa_comando.@SCRATCH2
+183-186 @FTOSD.P1
+183     home.primeraVueltaMotor6
+183-184 strtof.s
+183     estirar.@SCRATCH6
+183     crearSecInit.@SCRATCH6
+183     calcularPasosDados.@SCRATCH6
+183     procesa_comando.@SCRATCH3
+184     home.motor1Activo
+185-186 strtof.endptr
+185     home.motor2Activo
+186     home.motor3Activo
+187     home.motor4Activo
+187-18A strtof.pow10
+187     @FTOSD.@SCRATCH1
+188     home.motor5Activo
+189     home.motor6Activo
+18A     home.contadorHome
+18B     home.contadorHome
+18B-18E strtof.result
+18C     home.contadorHome
+18D     home.contadorHome
+18E     home.contadorHome
+18F.0   strtof.skip
+18F     home.contadorHome
+18F.1   strtof.sign
+18F.2   strtof.point
+190     strtof.c
+190     cleanAll.@SCRATCH1
+190     home.@SCRATCH1
+191     strtof.ptr
+191     @delay_ms1.P1
+191     @delay_us1.P2
+191     cleanAll.@SCRATCH2
+191     home.@SCRATCH2
+192-195 @MULFF.P1
+192     strtof.@SCRATCH1
+192     home.@SCRATCH3
+193     strtof.@SCRATCH2
+193     home.@SCRATCH4
+194     strtof.@SCRATCH3
+194     home.@SCRATCH5
+195     strtof.@SCRATCH4
+195     home.@SCRATCH6
+196-199 @ADDFF.P1
+196-197 @ITOF.P2
+196-199 @MULFF.P3
+196-199 @DIVFF.P4
+19A-19D @DIVFF.P1
+19A-19D @ADDFF.P2
+19A     @MULFF.@SCRATCH1
+19B     @MULFF.@SCRATCH2
+19C     @MULFF.@SCRATCH3
+19E     @ADDFF.@SCRATCH1
+19E     @DIVFF.@SCRATCH1
+19F     @ADDFF.@SCRATCH2
+19F     @DIVFF.@SCRATCH2
+1A0     @ADDFF.@SCRATCH3
+1A0     @DIVFF.@SCRATCH3
+1A1     @ADDFF.@SCRATCH4
+1A1     @DIVFF.@SCRATCH4
+1A2     @ADDFF.@SCRATCH5
+1A2     @DIVFF.@SCRATCH5
+1A3     @ADDFF.@SCRATCH6
+1A3     @DIVFF.@SCRATCH6
+1A4     @ADDFF.@SCRATCH7
+1A5     @ADDFF.@SCRATCH8
+1B0-1B5 armarPaquete.bufferPasos
+1B6     armarPaquete.j
+1B7     armarPaquete.l
+1B8     armarPaquete.i
+1B9     armarPaquete.@SCRATCH1
+1BA     armarPaquete.@SCRATCH2
+1BB     armarPaquete.@SCRATCH3
+1BC     armarPaquete.@SCRATCH4
+1BD-1C0 itoa.num
+1BD     armarPaquete.@SCRATCH5
+1BE     armarPaquete.@SCRATCH6
+1C1     itoa.base
+1C2-1C3 itoa.s
+1C4-1C7 itoa.temp
+1C8     itoa.i
+1C9     itoa.sign
+1CA     itoa.cnt
+1CB     itoa.c
+1CC-1CF @MUL3232.P1
+1CC     itoa.@SCRATCH1
+1CD     itoa.@SCRATCH2
+1CE     itoa.@SCRATCH3
+1CF     itoa.@SCRATCH4
+1D0-1D3 @MUL3232.P1
+1D0     itoa.@SCRATCH5
+1D1     itoa.@SCRATCH6
+1D2     itoa.@SCRATCH7
+1D3     itoa.@SCRATCH8
+1D4-1D7 @DIVS3232.P1
+1D4     itoa.@SCRATCH9
+1D4     @MUL3232.@SCRATCH1
+1D5     itoa.@SCRATCH10
+1D5     @MUL3232.@SCRATCH2
+1D6     itoa.@SCRATCH11
+1D6     @MUL3232.@SCRATCH3
+1D7     itoa.@SCRATCH12
+1D7     @MUL3232.@SCRATCH4
+1D8-1DB @DIVS3232.P1
+1D8     @MUL3232.@SCRATCH5
+1D9     @MUL3232.@SCRATCH6
+1DC     @DIVS3232.@SCRATCH1
+1DD     @DIVS3232.@SCRATCH2
+1DE     @DIVS3232.@SCRATCH3
+1DF     @DIVS3232.@SCRATCH4
+1E0     @DIVS3232.@SCRATCH5
+1E1     @DIVS3232.@SCRATCH6
+1E2     mover_motor.nMotor
+1E2     inicbuff.i
+1E2     @PSTRINGR_9600_31766_31767.@SCRATCH1
+1E2     serial_isr.@SCRATCH1
+1E2     @PSTRINGC_9600_31766_31767.@SCRATCH1
+1E2     TIMER0_isr.@SCRATCH1
+1E3-1E8 mover_motor.STEP_MOTOR
+1E3     inicbuff.@SCRATCH1
+1E3     @PSTRINGR_9600_31766_31767.@SCRATCH2
+1E3     serial_isr.@SCRATCH2
+1E3     @PSTRINGC_9600_31766_31767.@SCRATCH2
+1E3     TIMER0_isr.@SCRATCH2
+1E4     inicbuff.@SCRATCH2
+1E9-1EE mover_motor.DIR_MOTOR
+1EF     mover_motor.@SCRATCH1
+1F0     @WRITEBITA.P1
+1F0     @READBITA.P2
+1F0     mover_motor.@SCRATCH2
+1F1     @WRITEBITA.P1
+1F1-1F2 @READBITA.P2
+1F1     mover_motor.@SCRATCH3
+1F2-1F3 @WRITEBITA.P1
+1F2     mover_motor.@SCRATCH4
+1F3     mover_motor.@SCRATCH5
+1F4     mover_motor.@SCRATCH6
+F83     PSP_DATA
+FB4.6   C1OUT
+FB4.7   C2OUT
+FBB     CCP_2_LOW
+FBB     CCP_2
+FBC     CCP_2_HIGH
+FBE     CCP_1_LOW
+FBE     CCP_1
+FBF     CCP_1_HIGH
+FE1-FE2 @WRITE_PACKED_MEMORY.P1
+FE1-FE2 @READ_PACKED_MEMORY.P2
+FE9-FEA @WRITE_PROGRAM_MEMORY.P1
+FE9-FEA @WRITE_PACKED_MEMORY.P2
+FE9-FEA @READ_PROGRAM_MEMORY.P3
+FE9-FEA @READ_PACKED_MEMORY.P4
+FF6-FF8 @READ_PROGRAM_MEMORY.P1
+FF6-FF8 @WRITE_PROGRAM_MEMORY.P2
+
+ROM Allocation:
+0000A2  @const1021.call
+0000C2  @GETCH_BIU_1
+0000DA  @PSTRINGC_9600_31766_31767
+0000FC  @PSTRINGR_9600_31766_31767
+000122  serial_isr
+00029C  @const1026.call
+0002A2  @WRITEBITA
+0002E4  @READBITA
+000316  mover_motor
+000CB4  inicbuff
+000CD8  TIMER0_isr
+000E82  @const1030.call
+000E86  @const1031.call
+000E8A  @const1032.call
+000E90  @delay_ms1
+000EBA  @delay_us1
+000EE0  cleanAll
+000FA4  home
+0013C6  @MUL3232
+001422  @DIVS3232
+00150C  itoa
+0016DA  armarPaquete
+001E48  estirar
+001F60  @goto12203
+001F90  @MULFF
+002086  @ITOF
+0020BC  @DIVFF
+00221C  @ADDFF
+002494  strtof
+0026E4  @FTOSD
+002728  procesa_comando
+0029AC  crearSecInit
+002A72  calcularPasosDados
+002CD8  @cinit1
+002CD8  MAIN
+002D38  @cinit2
+0136  StrtoulGO
+0136  StrtolGO
+
+Project Directory:
+    Z:\Mecatronica\Alumnos\Segundo\Haimovich\2DO AÑO\PROYECTO\MecaArm.X\
+
+Project Files:
+    main.c                                                  [15-nov-19 17:12  CRC=5C5FAB1F]
+    C:\Program Files (x86)\PICC\Devices\18F4550.h           [12-nov-13 14:35  CRC=5337E248]
+    C:\Program Files (x86)\PICC\Drivers\stdlib.h            [08-jun-11 14:39  CRC=0B6669CF]
+    C:\Program Files (x86)\PICC\Drivers\stddef.h            [16-jul-10 09:27  CRC=897CEC6C]
+    C:\Program Files (x86)\PICC\Drivers\string.h            [14-jul-11 10:13  CRC=23EDEC8F]
+    C:\Program Files (x86)\PICC\Drivers\ctype.h             [03-ene-08 13:55  CRC=2D1F019F]
+
+Source signature=C2A6D36F
+
+Units:
+    main (main)
+
+Compiler Settings:
+    Processor:      PIC18F4550
+    Pointer Size:   16
+    ADC Range:      0-255
+    Opt Level:      9
+    Short,Int,Long: UNSIGNED: 1,8,16
+    Float,Double:   32,32
+    Predefined symbols:
+       #define __18F4550 1
+
+Output Files:
+    XREF file:   build\default\production\main.xsym
+    Errors:      build\default\production\main.err
+    Ext Symbols: build\default\production\main.esym
+    INHX32:      build\default\production\main.hex
+    Symbols:     build\default\production\main.sym
+    List:        build\default\production\main.lst
+    Debug/COFF:  build\default\production\main.cof
+    Project:     main.ccspjt
+    Call Tree:   build\default\production\main.tre
+    Statistics:  build\default\production\main.STA

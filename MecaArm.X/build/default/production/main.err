@@ -1,0 +1,7 @@
+Z:\Mecatronica\Alumnos\Segundo\Haimovich\2DO AÑO\PROYECTO\MecaArm.X\main.c:107:30:  Warning#230  String truncated
+Z:\Mecatronica\Alumnos\Segundo\Haimovich\2DO AÑO\PROYECTO\MecaArm.X\main.c:814:1:  Warning#203  Condition always TRUE
+Z:\Mecatronica\Alumnos\Segundo\Haimovich\2DO AÑO\PROYECTO\MecaArm.X\main.c:851:1:  Warning#216  Interrupts disabled during call to prevent re-entrancy:  (inicbuff)
+Z:\Mecatronica\Alumnos\Segundo\Haimovich\2DO AÑO\PROYECTO\MecaArm.X\main.c:851:1:  Warning#216  Interrupts disabled during call to prevent re-entrancy:  (@PSTRINGR_9600_31766_31767)
+      Memory usage:   ROM=36%      RAM=19% - 24%
+      0 Errors,  4 Warnings.
+Build Successful.
