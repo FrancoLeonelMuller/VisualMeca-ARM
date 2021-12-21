@@ -1,0 +1,169 @@
+Z:\Mecatronica\Alumnos\Segundo\Muller\Nueva carpeta\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+Z:\Mecatronica\Alumnos\Segundo\Muller\Nueva carpeta\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+Z:\Mecatronica\Alumnos\Segundo\Muller\Nueva carpeta\WindowsApplication1\WindowsApplication1\obj\x86\Debug\InterfaceRobot.vbproj.GenerateResource.Cache
+Z:\Mecatronica\Alumnos\Segundo\Muller\Nueva carpeta\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+Z:\Mecatronica\Alumnos\Segundo\Muller\Nueva carpeta\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+Z:\Mecatronica\Alumnos\Segundo\Muller\Nueva carpeta\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+Z:\Mecatronica\Alumnos\Segundo\Muller\Nueva carpeta\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+Z:\Mecatronica\Alumnos\Segundo\Muller\Nueva carpeta\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+Z:\Mecatronica\Alumnos\Segundo\Muller\Nueva carpeta\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+Z:\Mecatronica\Alumnos\Segundo\Muller\Computacion II\Visual MECA-ARM\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+Z:\Mecatronica\Alumnos\Segundo\Muller\Computacion II\Visual MECA-ARM\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+Z:\Mecatronica\Alumnos\Segundo\Muller\Computacion II\Visual MECA-ARM\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+Z:\Mecatronica\Alumnos\Segundo\Muller\Computacion II\Visual MECA-ARM\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+Z:\Mecatronica\Alumnos\Segundo\Muller\Computacion II\Visual MECA-ARM\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+Z:\Mecatronica\Alumnos\Segundo\Muller\Computacion II\Visual MECA-ARM\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+Z:\Mecatronica\Alumnos\Segundo\Muller\Computacion II\Visual MECA-ARM\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+Z:\Mecatronica\Alumnos\Segundo\Muller\Computacion II\Visual MECA-ARM\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+Z:\Mecatronica\Alumnos\Segundo\Muller\Computacion II\Visual MECA-ARM\WindowsApplication1\WindowsApplication1\obj\x86\Debug\InterfaceRobot.vbproj.GenerateResource.Cache
+C:\Users\ELECTRONICA\Downloads\Visual MECA-ARM\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\ELECTRONICA\Downloads\Visual MECA-ARM\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\ELECTRONICA\Downloads\Visual MECA-ARM\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\ELECTRONICA\Downloads\Visual MECA-ARM\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\ELECTRONICA\Downloads\Visual MECA-ARM\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\ELECTRONICA\Downloads\Visual MECA-ARM\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\ELECTRONICA\Downloads\Visual MECA-ARM\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\ELECTRONICA\Downloads\Visual MECA-ARM\WindowsApplication1\WindowsApplication1\obj\x86\Debug\InterfaceRobot.vbproj.GenerateResource.Cache
+C:\Users\ELECTRONICA\Downloads\Visual MECA-ARM\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Manual.resources
+C:\Users\Franco\Desktop\Visual MECA-ARM\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Franco\Desktop\Visual MECA-ARM\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Franco\Desktop\Visual MECA-ARM\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Franco\Desktop\Visual MECA-ARM\WindowsApplication1\WindowsApplication1\obj\x86\Debug\InterfaceRobot.vbprojAssemblyReference.cache
+C:\Users\Franco\Desktop\Visual MECA-ARM\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Manual.resources
+C:\Users\Franco\Desktop\Visual MECA-ARM\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Franco\Desktop\Visual MECA-ARM\WindowsApplication1\WindowsApplication1\obj\x86\Debug\InterfaceRobot.vbproj.GenerateResource.cache
+C:\Users\Franco\Desktop\Visual MECA-ARM\WindowsApplication1\WindowsApplication1\obj\x86\Debug\InterfaceRobot.vbproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\Visual MECA-ARM\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Franco\Desktop\Visual MECA-ARM\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Franco\Desktop\Visual MECA-ARM\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\EXO\Desktop\Pruebas Sw-\WindowsApplication1-20190425T224026Z-001\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\EXO\Desktop\Pruebas Sw-\WindowsApplication1-20190425T224026Z-001\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\EXO\Desktop\Pruebas Sw-\WindowsApplication1-20190425T224026Z-001\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\EXO\Desktop\Pruebas Sw-\WindowsApplication1-20190425T224026Z-001\WindowsApplication1\WindowsApplication1\obj\x86\Debug\InterfaceRobot.vbprojAssemblyReference.cache
+C:\Users\EXO\Desktop\Pruebas Sw-\WindowsApplication1-20190425T224026Z-001\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Manual.resources
+C:\Users\EXO\Desktop\Pruebas Sw-\WindowsApplication1-20190425T224026Z-001\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\EXO\Desktop\Pruebas Sw-\WindowsApplication1-20190425T224026Z-001\WindowsApplication1\WindowsApplication1\obj\x86\Debug\InterfaceRobot.vbproj.GenerateResource.cache
+C:\Users\EXO\Desktop\Pruebas Sw-\WindowsApplication1-20190425T224026Z-001\WindowsApplication1\WindowsApplication1\obj\x86\Debug\InterfaceRobot.vbproj.CoreCompileInputs.cache
+C:\Users\EXO\Desktop\Pruebas Sw-\WindowsApplication1-20190425T224026Z-001\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\EXO\Desktop\Pruebas Sw-\WindowsApplication1-20190425T224026Z-001\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\EXO\Desktop\Pruebas Sw-\WindowsApplication1-20190425T224026Z-001\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Franco\Desktop\Visual Sam v1.1\WindowsApplication1.1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Franco\Desktop\Visual Sam v1.1\WindowsApplication1.1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Franco\Desktop\Visual Sam v1.1\WindowsApplication1.1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Franco\Desktop\Visual Sam v1.1\WindowsApplication1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\InterfaceRobot.vbprojAssemblyReference.cache
+C:\Users\Franco\Desktop\Visual Sam v1.1\WindowsApplication1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Manual.resources
+C:\Users\Franco\Desktop\Visual Sam v1.1\WindowsApplication1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Franco\Desktop\Visual Sam v1.1\WindowsApplication1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\InterfaceRobot.vbproj.GenerateResource.cache
+C:\Users\Franco\Desktop\Visual Sam v1.1\WindowsApplication1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\InterfaceRobot.vbproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\Visual Sam v1.1\WindowsApplication1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Franco\Desktop\Visual Sam v1.1\WindowsApplication1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Franco\Desktop\Visual Sam v1.1\WindowsApplication1.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Server\Desktop\Compartido\WindowsApplication1.2\WindowsApplication1\WindowsApplication1\bin\Debug\VisualRobot.exe
+C:\Users\Server\Desktop\Compartido\WindowsApplication1.2\WindowsApplication1\WindowsApplication1\bin\Debug\VisualRobot.pdb
+C:\Users\Server\Desktop\Compartido\WindowsApplication1.2\WindowsApplication1\WindowsApplication1\bin\Debug\VisualRobot.xml
+C:\Users\Server\Desktop\Compartido\WindowsApplication1.2\WindowsApplication1\WindowsApplication1\obj\x86\Debug\VisualRobot.Manual.resources
+C:\Users\Server\Desktop\Compartido\WindowsApplication1.2\WindowsApplication1\WindowsApplication1\obj\x86\Debug\VisualRobot.Resources.resources
+C:\Users\Server\Desktop\Compartido\WindowsApplication1.2\WindowsApplication1\WindowsApplication1\obj\x86\Debug\InterfaceRobot.vbproj.GenerateResource.cache
+C:\Users\Server\Desktop\Compartido\WindowsApplication1.2\WindowsApplication1\WindowsApplication1\obj\x86\Debug\InterfaceRobot.vbproj.CoreCompileInputs.cache
+C:\Users\Server\Desktop\Compartido\WindowsApplication1.2\WindowsApplication1\WindowsApplication1\obj\x86\Debug\VisualRobot.exe
+C:\Users\Server\Desktop\Compartido\WindowsApplication1.2\WindowsApplication1\WindowsApplication1\obj\x86\Debug\VisualRobot.xml
+C:\Users\Server\Desktop\Compartido\WindowsApplication1.2\WindowsApplication1\WindowsApplication1\obj\x86\Debug\VisualRobot.pdb
+Z:\Mecatronica\Alumnos\Segundo\Muller\Visual Robot\WindowsApplication1.3.2\WindowsApplication1\WindowsApplication1\obj\x86\Debug\VisualRobot.exe
+Z:\Mecatronica\Alumnos\Segundo\Muller\Visual Robot\WindowsApplication1.3.2\WindowsApplication1\WindowsApplication1\obj\x86\Debug\VisualRobot.xml
+Z:\Mecatronica\Alumnos\Segundo\Muller\Visual Robot\WindowsApplication1.3.2\WindowsApplication1\WindowsApplication1\obj\x86\Debug\VisualRobot.pdb
+Z:\Mecatronica\Alumnos\Segundo\Muller\Visual Robot\WindowsApplication1.3.2\WindowsApplication1\WindowsApplication1\obj\x86\Debug\VisualRobot.Manual.resources
+Z:\Mecatronica\Alumnos\Segundo\Muller\Visual Robot\WindowsApplication1.3.2\WindowsApplication1\WindowsApplication1\obj\x86\Debug\VisualRobot.Resources.resources
+Z:\Mecatronica\Alumnos\Segundo\Muller\Visual Robot\WindowsApplication1.3.2\WindowsApplication1\WindowsApplication1\obj\x86\Debug\InterfaceRobot.vbproj.GenerateResource.Cache
+Z:\Mecatronica\Alumnos\Segundo\Muller\Visual Robot - copia\WindowsApplication1.3.4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\VisualRobot.exe
+Z:\Mecatronica\Alumnos\Segundo\Muller\Visual Robot - copia\WindowsApplication1.3.4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\VisualRobot.xml
+Z:\Mecatronica\Alumnos\Segundo\Muller\Visual Robot - copia\WindowsApplication1.3.4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\VisualRobot.pdb
+Z:\Mecatronica\Alumnos\Segundo\Muller\Visual Robot - copia\WindowsApplication1.3.4\WindowsApplication1\WindowsApplication1\bin\Debug\VisualRobot.exe
+Z:\Mecatronica\Alumnos\Segundo\Muller\Visual Robot - copia\WindowsApplication1.3.4\WindowsApplication1\WindowsApplication1\bin\Debug\VisualRobot.pdb
+Z:\Mecatronica\Alumnos\Segundo\Muller\Visual Robot - copia\WindowsApplication1.3.4\WindowsApplication1\WindowsApplication1\bin\Debug\VisualRobot.xml
+Z:\Mecatronica\Alumnos\Segundo\Muller\Visual Robot - copia\WindowsApplication1.3.4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\VisualRobot.Manual.resources
+Z:\Mecatronica\Alumnos\Segundo\Muller\Visual Robot - copia\WindowsApplication1.3.4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\VisualRobot.Resources.resources
+Z:\Mecatronica\Alumnos\Segundo\Muller\Visual Robot - copia\WindowsApplication1.3.4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\InterfaceRobot.vbproj.GenerateResource.Cache
+D:\Franco\Proyecto\Soft\Visual Robot - copia\WindowsApplication1.3.4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\InterfaceRobot.vbprojAssemblyReference.cache
+D:\Franco\Proyecto\Soft\Visual Robot - copia\WindowsApplication1.3.4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\VisualRobot.Ventana.resources
+D:\Franco\Proyecto\Soft\Visual Robot - copia\WindowsApplication1.3.4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\VisualRobot.Resources.resources
+D:\Franco\Proyecto\Soft\Visual Robot - copia\WindowsApplication1.3.4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\InterfaceRobot.vbproj.GenerateResource.cache
+D:\Franco\Proyecto\Soft\Visual Robot - copia\WindowsApplication1.3.4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\InterfaceRobot.vbproj.CoreCompileInputs.cache
+D:\Franco\Proyecto\Soft\Visual Robot - copia\WindowsApplication1.3.4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\VisualRobot.exe
+D:\Franco\Proyecto\Soft\Visual Robot - copia\WindowsApplication1.3.4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\VisualRobot.xml
+D:\Franco\Proyecto\Soft\Visual Robot - copia\WindowsApplication1.3.4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\VisualRobot.pdb
+D:\Franco\Proyecto\Soft\Visual Robot - copia\WindowsApplication1.3.4\WindowsApplication1\WindowsApplication1\bin\Debug\VisualRobot.exe
+D:\Franco\Proyecto\Soft\Visual Robot - copia\WindowsApplication1.3.4\WindowsApplication1\WindowsApplication1\bin\Debug\VisualRobot.pdb
+D:\Franco\Proyecto\Soft\Visual Robot - copia\WindowsApplication1.3.4\WindowsApplication1\WindowsApplication1\bin\Debug\VisualRobot.xml
+D:\Franco\Proyecto\Soft\WindowsApplication1.4\WindowsApplication1\WindowsApplication1\bin\Debug\VisualRobot.exe
+D:\Franco\Proyecto\Soft\WindowsApplication1.4\WindowsApplication1\WindowsApplication1\bin\Debug\VisualRobot.pdb
+D:\Franco\Proyecto\Soft\WindowsApplication1.4\WindowsApplication1\WindowsApplication1\bin\Debug\VisualRobot.xml
+D:\Franco\Proyecto\Soft\WindowsApplication1.4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\InterfaceRobot.vbprojAssemblyReference.cache
+D:\Franco\Proyecto\Soft\WindowsApplication1.4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\VisualRobot.Ventana.resources
+D:\Franco\Proyecto\Soft\WindowsApplication1.4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\VisualRobot.Resources.resources
+D:\Franco\Proyecto\Soft\WindowsApplication1.4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\InterfaceRobot.vbproj.GenerateResource.cache
+D:\Franco\Proyecto\Soft\WindowsApplication1.4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\InterfaceRobot.vbproj.CoreCompileInputs.cache
+D:\Franco\Proyecto\Soft\WindowsApplication1.4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\VisualRobot.exe
+D:\Franco\Proyecto\Soft\WindowsApplication1.4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\VisualRobot.xml
+D:\Franco\Proyecto\Soft\WindowsApplication1.4\WindowsApplication1\WindowsApplication1\obj\x86\Debug\VisualRobot.pdb
+Z:\Mecatronica\Alumnos\Segundo\Muller\WindowsApplication1.4.1-20190701T121755Z-001\WindowsApplication1.4.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\VisualRobot.exe
+Z:\Mecatronica\Alumnos\Segundo\Muller\WindowsApplication1.4.1-20190701T121755Z-001\WindowsApplication1.4.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\VisualRobot.xml
+Z:\Mecatronica\Alumnos\Segundo\Muller\WindowsApplication1.4.1-20190701T121755Z-001\WindowsApplication1.4.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\VisualRobot.pdb
+Z:\Mecatronica\Alumnos\Segundo\Muller\WindowsApplication1.4.1-20190701T121755Z-001\WindowsApplication1.4.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\VisualRobot.Ventana.resources
+Z:\Mecatronica\Alumnos\Segundo\Muller\WindowsApplication1.4.1-20190701T121755Z-001\WindowsApplication1.4.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\VisualRobot.Resources.resources
+Z:\Mecatronica\Alumnos\Segundo\Muller\WindowsApplication1.4.1-20190701T121755Z-001\WindowsApplication1.4.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\InterfaceRobot.vbproj.GenerateResource.Cache
+Z:\Mecatronica\Alumnos\Segundo\Muller\WindowsApplication1.4.1-20190701T121755Z-001\WindowsApplication1.4.1\WindowsApplication1\WindowsApplication1\bin\Debug\VisualRobot.exe
+Z:\Mecatronica\Alumnos\Segundo\Muller\WindowsApplication1.4.1-20190701T121755Z-001\WindowsApplication1.4.1\WindowsApplication1\WindowsApplication1\bin\Debug\VisualRobot.pdb
+Z:\Mecatronica\Alumnos\Segundo\Muller\WindowsApplication1.4.1-20190701T121755Z-001\WindowsApplication1.4.1\WindowsApplication1\WindowsApplication1\bin\Debug\VisualRobot.xml
+D:\Franco\Proyecto\Soft\WindowsApplication1.4.2\WindowsApplication1.4.1\WindowsApplication1\WindowsApplication1\bin\Debug\VisualRobot.exe
+D:\Franco\Proyecto\Soft\WindowsApplication1.4.2\WindowsApplication1.4.1\WindowsApplication1\WindowsApplication1\bin\Debug\VisualRobot.pdb
+D:\Franco\Proyecto\Soft\WindowsApplication1.4.2\WindowsApplication1.4.1\WindowsApplication1\WindowsApplication1\bin\Debug\VisualRobot.xml
+D:\Franco\Proyecto\Soft\WindowsApplication1.4.2\WindowsApplication1.4.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\InterfaceRobot.vbprojAssemblyReference.cache
+D:\Franco\Proyecto\Soft\WindowsApplication1.4.2\WindowsApplication1.4.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\VisualRobot.Ventana.resources
+D:\Franco\Proyecto\Soft\WindowsApplication1.4.2\WindowsApplication1.4.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\VisualRobot.Resources.resources
+D:\Franco\Proyecto\Soft\WindowsApplication1.4.2\WindowsApplication1.4.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\InterfaceRobot.vbproj.GenerateResource.cache
+D:\Franco\Proyecto\Soft\WindowsApplication1.4.2\WindowsApplication1.4.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\InterfaceRobot.vbproj.CoreCompileInputs.cache
+D:\Franco\Proyecto\Soft\WindowsApplication1.4.2\WindowsApplication1.4.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\VisualRobot.exe
+D:\Franco\Proyecto\Soft\WindowsApplication1.4.2\WindowsApplication1.4.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\VisualRobot.xml
+D:\Franco\Proyecto\Soft\WindowsApplication1.4.2\WindowsApplication1.4.1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\VisualRobot.pdb
+Z:\Mecatronica\Alumnos\Segundo\Muller\visual\WindowsApplication1.4.2-20190703T105720Z-001\WindowsApplication1.4.2\WindowsApplication1\obj\x86\Debug\VisualRobot.exe
+Z:\Mecatronica\Alumnos\Segundo\Muller\visual\WindowsApplication1.4.2-20190703T105720Z-001\WindowsApplication1.4.2\WindowsApplication1\obj\x86\Debug\VisualRobot.xml
+Z:\Mecatronica\Alumnos\Segundo\Muller\visual\WindowsApplication1.4.2-20190703T105720Z-001\WindowsApplication1.4.2\WindowsApplication1\obj\x86\Debug\VisualRobot.pdb
+Z:\Mecatronica\Alumnos\Segundo\Muller\visual\WindowsApplication1.4.2-20190703T105720Z-001\WindowsApplication1.4.2\WindowsApplication1\bin\Debug\VisualRobot.exe
+Z:\Mecatronica\Alumnos\Segundo\Muller\visual\WindowsApplication1.4.2-20190703T105720Z-001\WindowsApplication1.4.2\WindowsApplication1\bin\Debug\VisualRobot.pdb
+Z:\Mecatronica\Alumnos\Segundo\Muller\visual\WindowsApplication1.4.2-20190703T105720Z-001\WindowsApplication1.4.2\WindowsApplication1\bin\Debug\VisualRobot.xml
+Z:\Mecatronica\Alumnos\Segundo\Muller\visual\WindowsApplication1.4.2-20190703T105720Z-001\WindowsApplication1.4.2\WindowsApplication1\obj\x86\Debug\VisualRobot.Ventana.resources
+Z:\Mecatronica\Alumnos\Segundo\Muller\visual\WindowsApplication1.4.2-20190703T105720Z-001\WindowsApplication1.4.2\WindowsApplication1\obj\x86\Debug\VisualRobot.Resources.resources
+Z:\Mecatronica\Alumnos\Segundo\Muller\visual\WindowsApplication1.4.2-20190703T105720Z-001\WindowsApplication1.4.2\WindowsApplication1\obj\x86\Debug\InterfaceRobot.vbproj.GenerateResource.Cache
+D:\Franco\Proyecto\Soft\WindowsApplication1.4.3\WindowsApplication1\bin\Debug\VisualRobot.exe
+D:\Franco\Proyecto\Soft\WindowsApplication1.4.3\WindowsApplication1\bin\Debug\VisualRobot.pdb
+D:\Franco\Proyecto\Soft\WindowsApplication1.4.3\WindowsApplication1\bin\Debug\VisualRobot.xml
+D:\Franco\Proyecto\Soft\WindowsApplication1.4.3\WindowsApplication1\obj\x86\Debug\InterfaceRobot.vbprojAssemblyReference.cache
+D:\Franco\Proyecto\Soft\WindowsApplication1.4.3\WindowsApplication1\obj\x86\Debug\VisualRobot.Ventana.resources
+D:\Franco\Proyecto\Soft\WindowsApplication1.4.3\WindowsApplication1\obj\x86\Debug\VisualRobot.Resources.resources
+D:\Franco\Proyecto\Soft\WindowsApplication1.4.3\WindowsApplication1\obj\x86\Debug\InterfaceRobot.vbproj.GenerateResource.cache
+D:\Franco\Proyecto\Soft\WindowsApplication1.4.3\WindowsApplication1\obj\x86\Debug\InterfaceRobot.vbproj.CoreCompileInputs.cache
+D:\Franco\Proyecto\Soft\WindowsApplication1.4.3\WindowsApplication1\obj\x86\Debug\VisualRobot.exe
+D:\Franco\Proyecto\Soft\WindowsApplication1.4.3\WindowsApplication1\obj\x86\Debug\VisualRobot.xml
+D:\Franco\Proyecto\Soft\WindowsApplication1.4.3\WindowsApplication1\obj\x86\Debug\VisualRobot.pdb
+D:\Franco\Proyecto\Soft\WindowsApplication1.5\WindowsApplication1\bin\Debug\VisualRobot.exe
+D:\Franco\Proyecto\Soft\WindowsApplication1.5\WindowsApplication1\bin\Debug\VisualRobot.pdb
+D:\Franco\Proyecto\Soft\WindowsApplication1.5\WindowsApplication1\bin\Debug\VisualRobot.xml
+D:\Franco\Proyecto\Soft\WindowsApplication1.5\WindowsApplication1\obj\x86\Debug\InterfaceRobot.vbprojAssemblyReference.cache
+D:\Franco\Proyecto\Soft\WindowsApplication1.5\WindowsApplication1\obj\x86\Debug\VisualRobot.Ventana.resources
+D:\Franco\Proyecto\Soft\WindowsApplication1.5\WindowsApplication1\obj\x86\Debug\VisualRobot.Resources.resources
+D:\Franco\Proyecto\Soft\WindowsApplication1.5\WindowsApplication1\obj\x86\Debug\InterfaceRobot.vbproj.GenerateResource.cache
+D:\Franco\Proyecto\Soft\WindowsApplication1.5\WindowsApplication1\obj\x86\Debug\InterfaceRobot.vbproj.CoreCompileInputs.cache
+D:\Franco\Proyecto\Soft\WindowsApplication1.5\WindowsApplication1\obj\x86\Debug\VisualRobot.exe
+D:\Franco\Proyecto\Soft\WindowsApplication1.5\WindowsApplication1\obj\x86\Debug\VisualRobot.xml
+D:\Franco\Proyecto\Soft\WindowsApplication1.5\WindowsApplication1\obj\x86\Debug\VisualRobot.pdb
+D:\Franco\Proyecto\Soft\WindowsApplication1.5.1\WindowsApplication1\bin\Debug\VisualRobot.exe
+D:\Franco\Proyecto\Soft\WindowsApplication1.5.1\WindowsApplication1\bin\Debug\VisualRobot.pdb
+D:\Franco\Proyecto\Soft\WindowsApplication1.5.1\WindowsApplication1\bin\Debug\VisualRobot.xml
+D:\Franco\Proyecto\Soft\WindowsApplication1.5.1\WindowsApplication1\obj\x86\Debug\InterfaceRobot.vbprojAssemblyReference.cache
+D:\Franco\Proyecto\Soft\WindowsApplication1.5.1\WindowsApplication1\obj\x86\Debug\VisualRobot.Ventana.resources
+D:\Franco\Proyecto\Soft\WindowsApplication1.5.1\WindowsApplication1\obj\x86\Debug\VisualRobot.Resources.resources
+D:\Franco\Proyecto\Soft\WindowsApplication1.5.1\WindowsApplication1\obj\x86\Debug\InterfaceRobot.vbproj.GenerateResource.cache
+D:\Franco\Proyecto\Soft\WindowsApplication1.5.1\WindowsApplication1\obj\x86\Debug\InterfaceRobot.vbproj.CoreCompileInputs.cache
+D:\Franco\Proyecto\Soft\WindowsApplication1.5.1\WindowsApplication1\obj\x86\Debug\VisualRobot.exe
+D:\Franco\Proyecto\Soft\WindowsApplication1.5.1\WindowsApplication1\obj\x86\Debug\VisualRobot.xml
+D:\Franco\Proyecto\Soft\WindowsApplication1.5.1\WindowsApplication1\obj\x86\Debug\VisualRobot.pdb
